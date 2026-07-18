@@ -1,8 +1,8 @@
-# hello there.
+# Hello there.
 
 ## AI Engineer | Full-Stack Developer | Multi-Agent Systems Builder
 
-### CSBS Student (AI/ML focus) @ SRM Institute of Science and Technology | Open to SWE & AI Engineering internships
+### CSBS Student  @ SRM Institute of Science and Technology | Open to SWE & AI Engineering internships
 
 I'm a CSE (Business Systems) student who ships end-to-end AI products — multi-agent pipelines, agentic orchestration layers, production-grade backends — not just notebooks and prototypes.
 
